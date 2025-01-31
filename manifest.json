@@ -1,0 +1,13 @@
+{
+    "name": "Chill guy memes",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "popup.html",
+        "default_icon": "Chillguy.png"
+    },
+    "icons": {
+        "128": "Chillguy.png"
+    },
+    "permissions": ["activeTab"]
+}
